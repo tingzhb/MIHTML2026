@@ -245,3 +245,20 @@ textarea {
   }
 }
 
+h1 {
+  font-size: 72pt;
+  font-family: "Bodoni 72", serif;
+  font-style: oblique;
+  color: rgba(221, 105, 170, 0.75);
+}
+
+p {
+  font-size: 15pt;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: oblique;
+}
+
+body {
+  background-color: #b3d4fc;
+}
